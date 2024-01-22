@@ -1,0 +1,10 @@
+C:\Users\koa93\source\repos\пр 8 задание 4\пр 8 задание 4\bin\Debug\пр 8 задание 4.exe.config
+C:\Users\koa93\source\repos\пр 8 задание 4\пр 8 задание 4\bin\Debug\пр 8 задание 4.exe
+C:\Users\koa93\source\repos\пр 8 задание 4\пр 8 задание 4\bin\Debug\пр 8 задание 4.pdb
+C:\Users\koa93\source\repos\пр 8 задание 4\пр 8 задание 4\obj\Debug\пр 8 задание 4.csproj.AssemblyReference.cache
+C:\Users\koa93\source\repos\пр 8 задание 4\пр 8 задание 4\obj\Debug\пр_8_задание_4.Form1.resources
+C:\Users\koa93\source\repos\пр 8 задание 4\пр 8 задание 4\obj\Debug\пр_8_задание_4.Properties.Resources.resources
+C:\Users\koa93\source\repos\пр 8 задание 4\пр 8 задание 4\obj\Debug\пр 8 задание 4.csproj.GenerateResource.cache
+C:\Users\koa93\source\repos\пр 8 задание 4\пр 8 задание 4\obj\Debug\пр 8 задание 4.csproj.CoreCompileInputs.cache
+C:\Users\koa93\source\repos\пр 8 задание 4\пр 8 задание 4\obj\Debug\пр 8 задание 4.exe
+C:\Users\koa93\source\repos\пр 8 задание 4\пр 8 задание 4\obj\Debug\пр 8 задание 4.pdb

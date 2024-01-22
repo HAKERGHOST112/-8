@@ -1,0 +1,10 @@
+C:\Users\koa93\source\repos\пР 8 2 КУРС\пР 8 2 КУРС\bin\Debug\пР 8 2 КУРС.exe.config
+C:\Users\koa93\source\repos\пР 8 2 КУРС\пР 8 2 КУРС\bin\Debug\пР 8 2 КУРС.exe
+C:\Users\koa93\source\repos\пР 8 2 КУРС\пР 8 2 КУРС\bin\Debug\пР 8 2 КУРС.pdb
+C:\Users\koa93\source\repos\пР 8 2 КУРС\пР 8 2 КУРС\obj\Debug\пР 8 2 КУРС.csproj.AssemblyReference.cache
+C:\Users\koa93\source\repos\пР 8 2 КУРС\пР 8 2 КУРС\obj\Debug\пР_8_2_КУРС.Form1.resources
+C:\Users\koa93\source\repos\пР 8 2 КУРС\пР 8 2 КУРС\obj\Debug\пР_8_2_КУРС.Properties.Resources.resources
+C:\Users\koa93\source\repos\пР 8 2 КУРС\пР 8 2 КУРС\obj\Debug\пР 8 2 КУРС.csproj.GenerateResource.cache
+C:\Users\koa93\source\repos\пР 8 2 КУРС\пР 8 2 КУРС\obj\Debug\пР 8 2 КУРС.csproj.CoreCompileInputs.cache
+C:\Users\koa93\source\repos\пР 8 2 КУРС\пР 8 2 КУРС\obj\Debug\пР 8 2 КУРС.exe
+C:\Users\koa93\source\repos\пР 8 2 КУРС\пР 8 2 КУРС\obj\Debug\пР 8 2 КУРС.pdb

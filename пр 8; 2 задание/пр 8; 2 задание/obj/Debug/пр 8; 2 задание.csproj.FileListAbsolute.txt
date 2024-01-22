@@ -1,0 +1,10 @@
+C:\Users\koa93\source\repos\пр 8; 2 задание\пр 8; 2 задание\bin\Debug\пр 8; 2 задание.exe.config
+C:\Users\koa93\source\repos\пр 8; 2 задание\пр 8; 2 задание\bin\Debug\пр 8; 2 задание.exe
+C:\Users\koa93\source\repos\пр 8; 2 задание\пр 8; 2 задание\bin\Debug\пр 8; 2 задание.pdb
+C:\Users\koa93\source\repos\пр 8; 2 задание\пр 8; 2 задание\obj\Debug\пр 8; 2 задание.csproj.AssemblyReference.cache
+C:\Users\koa93\source\repos\пр 8; 2 задание\пр 8; 2 задание\obj\Debug\пр_8__2_задание.Form1.resources
+C:\Users\koa93\source\repos\пр 8; 2 задание\пр 8; 2 задание\obj\Debug\пр_8__2_задание.Properties.Resources.resources
+C:\Users\koa93\source\repos\пр 8; 2 задание\пр 8; 2 задание\obj\Debug\пр 8; 2 задание.csproj.GenerateResource.cache
+C:\Users\koa93\source\repos\пр 8; 2 задание\пр 8; 2 задание\obj\Debug\пр 8; 2 задание.csproj.CoreCompileInputs.cache
+C:\Users\koa93\source\repos\пр 8; 2 задание\пр 8; 2 задание\obj\Debug\пр 8; 2 задание.exe
+C:\Users\koa93\source\repos\пр 8; 2 задание\пр 8; 2 задание\obj\Debug\пр 8; 2 задание.pdb
